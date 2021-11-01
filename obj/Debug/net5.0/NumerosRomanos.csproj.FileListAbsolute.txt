@@ -1,0 +1,16 @@
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\NumerosRomanos.exe
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\NumerosRomanos.deps.json
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\NumerosRomanos.runtimeconfig.json
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\NumerosRomanos.runtimeconfig.dev.json
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\NumerosRomanos.dll
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\ref\NumerosRomanos.dll
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\bin\Debug\net5.0\NumerosRomanos.pdb
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.csproj.AssemblyReference.cache
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.AssemblyInfoInputs.cache
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.AssemblyInfo.cs
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.dll
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\ref\NumerosRomanos.dll
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.pdb
+C:\Users\TREINAMENTO14\source\repos\ConsoleAp\NumerosRomanos\obj\Debug\net5.0\NumerosRomanos.genruntimeconfig.cache
